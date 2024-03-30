@@ -60,14 +60,4 @@ This project aims to address the challenge of accurately detecting human posture
 - [Prajwal P Patil]
 - [Sai Deep K]
 
-## License
 
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
-
-## Acknowledgments
-
-- Mention any acknowledgments or credits for libraries, datasets, etc., used in the project.
-
-## Contact
-
-For inquiries or support regarding this project, please contact [Your Email Address].

@@ -55,8 +55,10 @@ This project aims to address the challenge of accurately detecting human posture
 
 ## Contributors
 
-- [Your Name]
-- [Co-contributors, if any]
+- [Bhuvan S A]
+- [Goutham G]
+- [Prajwal P Patil]
+- [Sai Deep K]
 
 ## License
 
